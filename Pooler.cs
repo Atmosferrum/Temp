@@ -7,7 +7,7 @@ public class GOPoolItem
 {
     public GameObject[] goToPool; //Object to Pool
     public int goQwty; //Qwantity of Object to Pool
-    public GameObject father; //Parent to contain Pooled Object
+    public GameObject father; //Parent to contain Pooled Object 
     public bool addMore = true; //If there's need to Create more objects than it's already Pooled
 }
 

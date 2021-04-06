@@ -2,7 +2,7 @@
 
 public class Sorting : MonoBehaviour
 {
-    SpriteRenderer thisSR; //Sprite Renderer of Current Object
+    SpriteRenderer thisSR; //Sprite Renderer of Current Object 
     GameObject parent; //Parent of Current Object
 
     void Start()

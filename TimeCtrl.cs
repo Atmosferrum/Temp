@@ -3,7 +3,7 @@
 public class TimeCtrl : MonoBehaviour
 {
     public bool pause = false; //Switch Pause
-    public bool slowMo = false; //Switch SlowMo
+    public bool slowMo = false; //Switch SlowMo 
 
     //GET Current TimeScales
     public float timeScale()

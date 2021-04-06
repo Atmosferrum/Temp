@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 
 /// <summary>
-/// Game Manager Prototype (To quick & easy access to often used game parameters)
+/// Game Manager Prototype (To quick & easy access to often used game parameters) 
 /// </summary>
 public class GM : MonoBehaviour
 {

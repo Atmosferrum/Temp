@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class FOV : MonoBehaviour
 {
-    EnemyCtrl enemyCtrl; //THIS EnemyCtrl Script
+    EnemyCtrl enemyCtrl; //THIS EnemyCtrl Script 
     public float viewRadius = 5f; // Enemy view radius
     public float viewAngle = 360f; //Enemy view angle    
     Collider2D[] playerInViewRadius; //Player Collider2D in view radius

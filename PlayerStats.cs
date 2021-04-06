@@ -2,7 +2,7 @@
 using System.Reflection;
 
 /// <summary>
-/// Player Stas prototype (GET Player Stats form names of Variables)
+/// Player Stas prototype (GET Player Stats form names of Variables) 
 /// </summary>
 public class PlayerStats : MonoBehaviour
 {
